@@ -2,6 +2,7 @@
 
 ![Crypto Lover](https://img.shields.io/badge/Crypto%20Enthusiast-%F0%9F%92%B0-green)
 ![Solana Dev](https://img.shields.io/badge/Solana%20Developer-%236C54A3.svg?logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ## 💻 I'm a Software & Blockchain Developer!!
